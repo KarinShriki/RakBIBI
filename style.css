@@ -209,7 +209,7 @@ h1{
 
 
 .about p{
-font-size: 13px;
+font-size:  0.9rem;
 }
 
 
@@ -238,7 +238,7 @@ h3{
 }
 
 .bio p{
-    font-size: 12px;
+    font-size:  0.8rem;
 }
 
 .bio:hover{
